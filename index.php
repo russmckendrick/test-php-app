@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Deploying like a boss!!!</p>'; ?> 
+ <?php echo '<p>Deploying a new version of the app!!!</p>'; ?> 
  </body>
 </html>
