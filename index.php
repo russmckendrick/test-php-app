@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>Testing AWS!</title>
  </head>
  <body>
- <?php echo '<p>Bosh!</p>'; ?> 
+ <?php echo '<p>Testing AWS!</p>'; ?> 
  </body>
 </html>
